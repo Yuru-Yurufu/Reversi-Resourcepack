@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+    	"layer0": "item/armor_stand"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "cmd/reversi_black"},
+        {"predicate": {"custom_model_data": 2},"model": "cmd/reversi_white"},
+        {"predicate": {"custom_model_data": 3},"model": "cmd/none"},
+        {"predicate": {"custom_model_data": 4},"model": "cmd/white_heart"}
+	]
+}

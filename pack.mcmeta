@@ -1,0 +1,26 @@
+{
+	"pack": {
+		"pack_format": 34,
+		"supported_formats": {
+			"max_inclusive": 34,
+			"min_inclusive": 22
+		},
+		"description": "Reversi Resourcepack"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "21_1",
+				"formats": 34
+			},
+			{
+				"directory": "20_6",
+				"formats": 32
+			},
+			{
+				"directory": "20_4",
+				"formats": 22
+			}
+		]
+	}
+}

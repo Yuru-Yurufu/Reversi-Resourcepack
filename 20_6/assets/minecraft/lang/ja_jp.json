@@ -1,0 +1,18 @@
+{
+    "yrfs_reversi:advancements.root.title": "Reversi",
+    "yrfs_reversi:advancements.root.description": "ワールドに飛び込む",
+    "yrfs_reversi:advancements.first_win.title": "はじまり",
+    "yrfs_reversi:advancements.first_win.description": "試合に勝利する",
+    "yrfs_reversi:advancements.draw.title": "グッドゲーム",
+    "yrfs_reversi:advancements.draw.description": "引き分けで試合を終える",
+    "yrfs_reversi:advancements.perfect_win.title": "完全勝利！",
+    "yrfs_reversi:advancements.perfect_win.description": "64対0で勝利する",
+    "yrfs_reversi:advancements.perfect_win_ai.title": "伝説のはじまり",
+    "yrfs_reversi:advancements.perfect_win_ai.description": "AIに64対0で勝利する",
+    "yrfs_reversi:advancements.easter_egg.title": "イースターエッグ！",
+    "yrfs_reversi:advancements.easter_egg.description": "全ての隠されたボタンを見つけ出す",
+    "yrfs_reversi:advancements.big_heart.title": "大きな愛のしるし",
+    "yrfs_reversi:advancements.big_heart.description": "盤面に大きなハートを作り、愛を伝える",
+    "yrfs_reversi:tellraw.found_the_hidden_button": "隠されたボタンを見つけた！",
+    "yrfs_reversi:tellraw.found_all_the_hidden_buttons": "全ての隠されたボタンを見つけた！"
+}
