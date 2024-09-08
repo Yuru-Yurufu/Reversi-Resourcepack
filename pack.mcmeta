@@ -5,7 +5,7 @@
 			"max_inclusive": 34,
 			"min_inclusive": 22
 		},
-		"description": "Reversi Resourcepack"
+		"description": "Reversi Resourcepack v1.1.0"
 	},
 	"overlays": {
 		"entries": [
