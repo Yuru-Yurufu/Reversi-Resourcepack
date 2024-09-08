@@ -1,0 +1,4 @@
+{
+    "yrfs_reversi:tellraw.datapack_load_success": "Datapack for Minecraft [%s] successfully loaded!%sv1.1.0",
+    "yrfs_reversi:tellraw.datapack_load_in_unsupported_version": "This version of Minecraft may not be supported.\nPlease reload with the following version."
+}

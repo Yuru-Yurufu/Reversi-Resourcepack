@@ -14,5 +14,7 @@
     "yrfs_reversi:advancements.big_heart.title": "大きな愛のしるし",
     "yrfs_reversi:advancements.big_heart.description": "盤面に大きなハートを作り、愛を伝える",
     "yrfs_reversi:tellraw.found_the_hidden_button": "隠されたボタンを見つけた！",
-    "yrfs_reversi:tellraw.found_all_the_hidden_buttons": "全ての隠されたボタンを見つけた！"
+    "yrfs_reversi:tellraw.found_all_the_hidden_buttons": "全ての隠されたボタンを見つけた！",
+    "yrfs_reversi:tellraw.datapack_load_success": "Minecraft [%s] 用のデータパックの読み込みに成功しました！%sv1.1.0",
+    "yrfs_reversi:tellraw.datapack_load_in_unsupported_version": "このMinecraftのバージョンはサポート対象外の可能性があります。\n以下のバージョンで読み込み直してください。"
 }

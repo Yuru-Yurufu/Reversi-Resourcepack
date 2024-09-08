@@ -15,6 +15,8 @@
     "yrfs_reversi:advancements.big_heart.description": "Create a large heart on the board to show your love",
     "yrfs_reversi:tellraw.found_the_hidden_button": "You've found the hidden button!",
     "yrfs_reversi:tellraw.found_all_the_hidden_buttons": "You've found all the hidden button!",
+    "yrfs_reversi:tellraw.datapack_load_success": "Datapack for Minecraft [%s] successfully loaded!%sv1.1.0",
+    "yrfs_reversi:tellraw.datapack_load_in_unsupported_version": "This version of Minecraft may not be supported.\nPlease reload with the following version.",
     "yrf_system:space_-512": "\u8000",
     "yrf_system:space_-511": "\u8001",
     "yrf_system:space_-510": "\u8002",
